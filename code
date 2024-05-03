@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Votre Site</title>
+    <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+<header>
+    <div class="menu-icon">&#9776;</div>
+    <div class="logo">Votre Logo</div>
+    <nav>
+        <button onclick="location.href='connexion.html';">Connexion</button>
+        <button onclick="location.href='inscription.html';">Inscription</button>
+    </nav>
+</header>
+<!-- Vous pouvez ajouter votre contenu de page ici -->
+<main>
+    <h1>Bienvenue sur Votre Site</h1>
+    <p>Ceci est un exemple de paragraphe. Ajoutez ici le contenu de votre page.</p>
+</main>
+</body>
+</html>
